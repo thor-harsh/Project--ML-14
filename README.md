@@ -11,7 +11,7 @@ Unsupervised Machine Learning is the process of teaching a computer to use unlab
 
 The goal of clustering is to divide the population or set of data points into a number of groups so that the data points within each group are more comparable to one another and different from the data points within the other groups. It is essentially a grouping of things based on how similar and different they are to one another.<br></br>
 
-The algorithm works as follows:  
+The algorithm works as follows:<br>
 
 First, we randomly initialize k points, called means or cluster centroids.
 We categorize each item to its closest mean and we update the mean’s coordinates, which are the averages of the items categorized in that cluster so far.
