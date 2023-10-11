@@ -4,7 +4,7 @@
 
 <table>
 
-**In this project we will build the Model K-Means Clsutering for clustering Spending Score based on different features in Mall_Customers dataset**.<br></br>  
+**In this project we will build the Model K-Means Clutering for clustering Spending Score and making different clusters based on different features in Mall_Customers dataset**.<br></br>  
 
 K-Means Clustering is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into different clusters.
 Unsupervised Machine Learning is the process of teaching a computer to use unlabeled, unclassified data and enabling the algorithm to operate on that data without supervision.Without any previous data training, the machine’s job in this case is to organize unsorted data according to parallels, patterns, and variations.<br></br>
